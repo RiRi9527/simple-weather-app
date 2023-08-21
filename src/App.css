@@ -1,0 +1,12 @@
+.weather-container {
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  align-items: center;
+}
+li:hover {
+  color: red;
+  cursor: pointer;
+}
